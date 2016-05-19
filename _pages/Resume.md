@@ -54,7 +54,7 @@ permalink: /Resume/
   <li>Inputting of work orders in to database </li>
   </ul>
   <h3> Associate | Wal-Mart Stores </h3>
-<b> 11/01/2005 – 8/01/2006 </b>
+<b> 11/01/2005–8/01/2006 </b>
 <h3> Nassau Country School Board | Sanitation Engineer </h3>  
 <b>08/01/2006 </b> 
 <h1> Skills </h1>
