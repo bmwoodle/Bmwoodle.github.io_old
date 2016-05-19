@@ -19,8 +19,8 @@ permalink: /Resume/
 <b> Computer Electronic Technician  - Vocational Training </b>
 
 <h1> Experience </h1>  
-<h3> Assistant systems Analyst | Sutton Place Behavioral Inc.   </h3> 
-<b> 11/05/03 – 06/30/04** </b>
+<h3> Assistant systems Analyst | Sutton Place Behavioral Inc.</h3> 
+<b> 11/05/03 – 06/30/04 </b>
 <ul>
 <li> Assisting the system analyst in administering and troubleshooting at six
  different locations, in Nassau County </li>
@@ -56,7 +56,7 @@ permalink: /Resume/
   <h3> Associate | Wal-Mart Stores </h3>
 <b> 11/01/2005 – 8/01/2006 </b>
 <h3> Nassau Country School Board | Sanitation Engineer </h3>  
-<b>08/01/2006- </b> 
+<b>08/01/2006 </b> 
 <h1> Skills </h1>
 <ul>
 <li> Experience with the Adobe Suite CS4 </li>
