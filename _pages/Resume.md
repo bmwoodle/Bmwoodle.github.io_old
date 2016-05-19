@@ -4,36 +4,70 @@ title: About
 permalink: /about/
 ---
 
-We never thought of findin' a place where we belong. Don't have to stand alone, we'll never let you fall. Don't need permission to decide what you believe. You gotta learn something when we meet you after school. I said jump, down on Jump Street. I said jump, down on Jump Street. Your friends will be there when your back is to the wall. You'll find you'll need us cause there's no one else to call. When it was hopeless a decision is what you need. You'd better be ready cause' your runnin' outta time. Say jump, 21 Jump, Street.
+# Brian Woodle
+85094 Theresa Road  
+ (904) 583-0516  
+Brian@BrianWoodle.com
+# Objectives
+Looking for a position as a Graphic Designer in a company where I can get a chance to better employ all my creative, innovative and graphic designing skills to provide quality performance as per the requirements of the organization and the customers.
+# Education  
+### International Academy Of Design and Technology  
+**- Associate degree in Graphic Design**  
 
-{% highlight javascript %}
-function meow() {
-    return 'meow';
-}
+### FSCJ-Downtown Campus  
+Jacksonville, FL  
+**Computer Electronic Technician  - Vocational Training **
 
-function bark() {
-    return 'woof';
-}
+# Experience  
+### Assistant systems Analyst | Sutton Place Behavioral Inc.   
+**11/05/03 – 06/30/04**
+-  Assisting the system analyst in administering and troubleshooting at six
+ different locations, in Nassau County
+-  Maintaining 5 servers at the home location
+-  Supported 100-150 End-Users
+-  Assuring that backup tapes were changed daily
+-  Performed password audits of the domain
+-  Maintained a vpn connection
+-  Built arcade game systems for mentally challenged Clients
+-  Assisted in the creation of a intranet site
+-  Created illustrated How-to pages to assist with common problems
+  ### Pc Technician | Bobs Computers   
+**07/12/04-09/20/2004**
+-  Troubleshooting and repairing PCs
+-  Tearing down and rebuilding of Pc's
+- Operating system repair and reinstallation
+- Virus and Spyware Removal
+-  Onsite installations of hardware  
 
-function getRandomAnimal() {
+### Configuration Technician | Emtec Inc    
+**03/14/05-08/30/2005**
+-  Configuration of Machines for delivery
+-  Repair of depot Machines
+-  Repair of machines for Warranty work
+-  Imaging of paces for orders
+-  Field repair work  for clients
+-  Inputting of work orders in to database
+### Associate | Wal-Mart Stores 
+**11/01/2005 – 8/01/2006**
+## Nassau Country School Board | Sanitation Engineer  
+**08/01/2006-**  
+# Skills
+- Experience with the Adobe Suite CS4
+- Experience creating websites though Dreamweaver
+- Experience with  creating logos in  Illustrator
+- Experience with creating layouts in both Quark and Indesign
+- Experience with PhotoShop
+- Experience in creating web and print design projects
+-  Experience with network cable construction
+-  Experience configuring and troubleshooting Cisco series routers.
+-  Experience with patch panels, 2950 Cisco switches and Hubs
+-  Experience with wireless Networks
+-  Experience with administering active directory
+-  Experience Configuring mail clients such as, Microsoft Outlook, FireFox
+- Experience with Apache learning SQL
+- Experience in rebuilding and repairing computer hardware
+- Experience with DOS, Windows 98, 2000, 2000 & 2003 Server, Solaris 9 (UNIX), Mac OS  X  and various distributions of Linux.
+- Experience with both Inkjet and Laser printers
+- Setting up network  printers
 
-    var animals = [
-        'cat',
-        'dog',
-        'hippo',
-        'lion',
-        'bear',
-        'zebra'
-    ];
-
-    return animals[Math.floor(Math.random()*animals.length)];
-}
-
-console.log(meow());
-console.log(bark());
-console.log(getRandomAnimal());
-{% endhighlight %}
-
-They arrived in fifty mother ships, offering their friendship and advance technology to Earth. Skeptical of the visitors, Mike Donovan and Juliet Parrish infiltrated their ranks and soon discovered some startling secrets. The resistance is all that stands between us... and the visitors.
-
-Once in every lifetime, comes a love like this. Oh I need you, you need me, oh my darling can't you see. Young Ones. Darling we're the Young Ones. Young Ones. Shouldn't be afraid. To live, love, there's a song to be sung. Cause we may not be the Young Ones very long.
+ 
