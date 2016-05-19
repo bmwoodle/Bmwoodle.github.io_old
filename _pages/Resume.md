@@ -5,9 +5,9 @@ permalink: /Resume/
 ---
 
 <h1> Brian Woodle </h1>
-<b> 85094 Theresa Road </b>  
-<p> <b> (904) 583-0516  </b> </p>
-<b> Brian@BrianWoodle.com </b>
+<b> 85094 Theresa Road </b>   
+<b> (904) 583-0516  </b>    
+<b> Brian@BrianWoodle.com </b>   
 <h1> Objectives </h1>
 <i> Looking for a position as a Graphic Designer in a company where I can get a chance to better employ all my creative, innovative and graphic designing skills to provide quality performance as per the requirements of the organization and the customers. </i>
 <h1> Education </h1> 
