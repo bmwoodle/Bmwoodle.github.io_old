@@ -4,18 +4,18 @@ title: Resume
 permalink: /Resume/
 ---
 
-# Brian Woodle
-85094 Theresa Road  
- (904) 583-0516  
-Brian@BrianWoodle.com
-# Objectives
-Looking for a position as a Graphic Designer in a company where I can get a chance to better employ all my creative, innovative and graphic designing skills to provide quality performance as per the requirements of the organization and the customers.
-# Education  
-### International Academy Of Design and Technology  
-**- Associate degree in Graphic Design**  
-
-### FSCJ-Downtown Campus  
-Jacksonville, FL  
+<h1> Brian Woodle </h1>
+<b> 85094 Theresa Road </b>  
+<b> (904) 583-0516  </b>
+<b> Brian@BrianWoodle.com </b>
+<h1> Objectives </h1>
+<i> Looking for a position as a Graphic Designer in a company where I can get a chance to better employ all my creative, innovative and graphic designing skills to provide quality performance as per the requirements of the organization and the customers. </i>
+<h1> Education </h1> 
+<h3> International Academy Of Design and Technology </h3>  
+<b> - Associate degree in Graphic Design** </b>  
+<p>
+<H3> FSCJ-Downtown Campus </H3> 
+<b> Jacksonville, FL </B> 
 **Computer Electronic Technician  - Vocational Training **
 
 # Experience  
